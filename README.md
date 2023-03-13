@@ -47,10 +47,17 @@ For the features of the model it was decided to use all but 4 columns, this was 
 The columns considered as features were:
 
 APPLICATION_TYPE—Alphabet Soup application type
+
 LIATION—Affiliated sector of industry
+
 CLASSIFICATION—Government organization classification
+
 USE_CASE—Use case for funding
+
 ORGANIZATION—Organization type
+
 INCOME_AMT—Income classification
+
 SPECIAL_CONSIDERATIONS—Special consideration for application
+
 ASK_AMT—Funding amount requested
