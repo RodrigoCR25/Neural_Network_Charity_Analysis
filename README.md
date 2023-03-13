@@ -38,7 +38,7 @@ ________________________________________________________________________________
 The purpose of this analysis was to help develop a machine learning algorithm for a client to help predict in what organizations to invest as to minimize the risk of not having anything to show for it.
 _____________________________________________________________________________________________________________________________________________________________
 
-Data Preprocessing
+# Data Preprocessing
 
 For the model the variable considered as the target variable was the column named "IS_SUCCESFUL" which as described by the client answers the question: Was the money used effectively? So in other words the model will use the information provided to predict if the money that might be invested will be used effectively.
 
